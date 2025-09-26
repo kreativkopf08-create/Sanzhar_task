@@ -12,3 +12,7 @@
 .venv
 db.sqlite3
 находятся в .gitignore
+
+админ панель:
+user: admin
+password: testpass
